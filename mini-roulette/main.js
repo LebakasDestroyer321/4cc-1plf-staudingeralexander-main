@@ -14,7 +14,7 @@ let betPhase = true;
 function canBet() {
   return money > 0 && betPhase;
 }
-
+//test
 function createBoard() {
   //code-here
   board.innerHTML = ''; // Reset the board
