@@ -1,0 +1,152 @@
+[
+    {
+        "articleId": 1,
+        "yards": [
+            {
+                "yardId": 101,
+                "availableAmount": 50,
+                "reservedAmount": 10
+            },
+            {
+                "yardId": 102,
+                "availableAmount": 30,
+                "reservedAmount": 5
+            }
+        ]
+    },
+    {
+        "articleId": 2,
+        "yards": [
+            {
+                "yardId": 103,
+                "availableAmount": 60,
+                "reservedAmount": 15
+            },
+            {
+                "yardId": 102,
+                "availableAmount": 40,
+                "reservedAmount": 8
+            }
+        ]
+    },
+    {
+        "articleId": 3,
+        "yards": [
+            {
+                "yardId": 101,
+                "availableAmount": 70,
+                "reservedAmount": 20
+            },
+            {
+                "yardId": 103,
+                "availableAmount": 50,
+                "reservedAmount": 10
+            }
+        ]
+    },
+    {
+        "articleId": 4,
+        "yards": [
+            {
+                "yardId": 102,
+                "availableAmount": 80,
+                "reservedAmount": 25
+            },
+            {
+                "yardId": 101,
+                "availableAmount": 60,
+                "reservedAmount": 12
+            }
+        ]
+    },
+    {
+        "articleId": 5,
+        "yards": [
+            {
+                "yardId": 103,
+                "availableAmount": 90,
+                "reservedAmount": 30
+            },
+            {
+                "yardId": 101,
+                "availableAmount": 70,
+                "reservedAmount": 15
+            }
+        ]
+    },
+    {
+        "articleId": 6,
+        "yards": [
+            {
+                "yardId": 101,
+                "availableAmount": 100,
+                "reservedAmount": 35
+            },
+            {
+                "yardId": 103,
+                "availableAmount": 80,
+                "reservedAmount": 18
+            }
+        ]
+    },
+    {
+        "articleId": 7,
+        "yards": [
+            {
+                "yardId": 101,
+                "availableAmount": 110,
+                "reservedAmount": 40
+            },
+            {
+                "yardId": 100,
+                "availableAmount": 90,
+                "reservedAmount": 20
+            }
+        ]
+    },
+    {
+        "articleId": 8,
+        "yards": [
+            {
+                "yardId": 100,
+                "availableAmount": 120,
+                "reservedAmount": 45
+            },
+            {
+                "yardId": 101,
+                "availableAmount": 100,
+                "reservedAmount": 22
+            }
+        ]
+    },
+    {
+        "articleId": 9,
+        "yards": [
+            {
+                "yardId": 103,
+                "availableAmount": 130,
+                "reservedAmount": 50
+            },
+            {
+                "yardId": 101,
+                "availableAmount": 110,
+                "reservedAmount": 25
+            }
+        ]
+    },
+    {
+        "articleId": 10,
+        "yards": [
+            {
+                "yardId": 100,
+                "availableAmount": 140,
+                "reservedAmount": 55
+            },
+            {
+                "yardId": 104,
+                "availableAmount": 120,
+                "reservedAmount": 28
+            }
+        ]
+    }
+]
